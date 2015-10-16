@@ -1,12 +1,24 @@
-# golden-bee
+# Golden Bee
+### Editorial Tools at Time Inc.
+----
 
 ###Objectives
 
-####Reserch and Exploration
-*Deliverables / 12 Oct 2015 - 23 Oct 2015*
+####Reserch and Exploration Phase
+Deliverables / 12 Oct 2015 - 23 Oct 2015
 - User Profiles
-- Scenarios
+- Scenarios 
 - UX Workflows
 
 Open Questions:
-- Should this be built on Drupal 8? Everyone seems to think the answer is YES, but we need to explore possible pain points, like migrations.
+- Should this be built on Drupal 8?
+- What are the pain points of migrating from Drupal 7 to Drupal 8?
+
+#### Designs & Prototypes
+* [Writer](writer)
+* [Photo](photo)
+* Social
+* SEO
+* Analytics
+* Performance
+* [Documentation](index.php)

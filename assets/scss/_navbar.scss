@@ -1,0 +1,21 @@
+#navbar{
+  background: #EA7C7C;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.50);
+  color:$white;
+  a{
+    padding: 5px 0;
+    display: inline-block;
+    color:$white;
+    font-weight: 200;
+    font-size: 15px;
+  }
+  .usr{
+    img{
+      margin-right: 5px;
+      width:24px;
+      height:24px;
+      border-radius: 16px;
+      border:1px #CBCBCB solid;
+    }
+  }
+}

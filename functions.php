@@ -1,1 +1,3 @@
-functions.php
+<?php
+
+include(FUNC . '/Parsedown.php');
